@@ -6,9 +6,7 @@ First the visitor tried to sit in a chair but it was too big.
 Then she sat in the other chair and it was too small. She tried the last chair,
 and it was just right.
 
-One TV was tuned to the home shopping network, so the visitor turned it off.
-The second TV only played FoxNews, so she threw it out the window.
-The third TV was showing Seinfeld reruns, so she kept that TV on.
+The visitor started watching TV.  She watched two TVs she didn't like and then kept the third one.
 
 She was so curious how things in the house were so great and it was left empty.
 
@@ -49,10 +47,11 @@ Next, the visitor tried the bears kombucha, but it was too sour and efervescent.
 Then, she tried the peach faygo and it was too sweet. 
 Last, she tried the Old English and it was just right.
 
-
 Unfortunately, the three bears called their cousins the three sharks, and the three sharks flew in their candy powered plane and arrested the girl for breaking and entering as well as theft of bear food. The charge of theft was dropped as the bears had stolen the food themselves, and the girl spent one year in jail.
 
 and then she broke out like el chapo..
+
+She eventually became heralded as the "Snatch and Dash Queen" for her swift hands and even quicker departure.
 
 //carlos's edit 
 
@@ -61,5 +60,3 @@ public static void main(String []args) {
 System.out.println("Hi")
 
 }
-
-The three Bears used the franchise tag on Alshon Jeffery.
