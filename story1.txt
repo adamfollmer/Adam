@@ -1,4 +1,3 @@
-Hello my name is Adam and this is my story.
 This the story of three little bears. One day they 
 went out for a trip. While they were gone, a vistor came to
 their house.
@@ -14,3 +13,10 @@ They yelled at the girl to leave their house, and she did.
 She returned north of the border. She was content to be away
 from the rude people from bear country. 
 
+<<<<<<< HEAD
+=======
+---------------
+
+
+This is carlos i am editing this file (:
+>>>>>>> 33c47ea365eea1f30e37aa20449f9305251056e4
