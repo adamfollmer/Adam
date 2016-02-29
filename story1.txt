@@ -66,10 +66,11 @@ public static void main(String []args) {
 	
 System.out.println("Hi")
 
-<<<<<<< HEAD
+
 Unfortunately, the three bears called their cousins the three sharks, and the three sharks flew in their candy powered plane and arrested the girl for breaking and entering as well as theft of bear food. The charge of theft was dropped as the bears had stolen the food themselves, and the girl spent one year in jail.
 
 The girl got out of jail and went crazy looking for the 3 bears. The 3 bears were scared because she didn't know if the girl would want revenge.
-=======
-}
->>>>>>> b6bc364035e95b6cbb79cadf9d7ef5edb7edb026
+
+
+The three Bears used the franchise tag on Alshon Jeffery.
+
