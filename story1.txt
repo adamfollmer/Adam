@@ -11,9 +11,16 @@ They yelled at the girl to leave their house, and she did.
 She returned north of the border. She was content to be away
 from the rude people from bear country. 
 
+<<<<<<< HEAD
 The girl moved to the city and became a big city journalist.
 The newspaper she worked for sent her BACK to bear country
 in order to do a big report on the honey shortage. There
 were bear riots in which they were punching bee hives and 
 eating an excessive amount of salmon...needless to say...
 This story changed the girls life for ever.
+=======
+---------------
+
+
+This is carlos i am editing this file (:
+>>>>>>> 33c47ea365eea1f30e37aa20449f9305251056e4
